@@ -1,9 +1,3 @@
-//#pragma once 
-//#ifndef _H_
-//#define _H_ */
-//#pragma GCC  poison printf 
-//#pragma GCC warning printf 
-//#pragma GCC error printf 
 
 #define CPU_TYPE_8  8 
 #define CPU_TYPE_16 16
